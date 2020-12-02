@@ -16,7 +16,7 @@
             <tr>
             <td>0</td>
             <td>Subway Restaurant</td>
-            <td>Menara Standard Chartered, TPM</t>
+            <td>Menara Standard Chartered, TPM</td>
             <td>03-22441234</td>
             </tr>
             </table>
